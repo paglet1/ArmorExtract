@@ -24,7 +24,7 @@ python extract.py
   
 3. Upload content from ItemsAdder / Nexo / ... to download link
 - ItemsAdder: zip `content` folder and `storage` folder with `items_ids_cache.yml`. Rename zip to `Content.zip`
-- Nexo: 🏗
+- Nexo: zip `items` folder and `pack` folder with `pack.zip`. Rename zip to `Content.zip`
 4. Go to Actions -> Extract Armors -> Run workflow -> Input Download URL -> Run
   <p align="center">
     <img src="https://qu.ax/Fbavc.jpeg" width="400"><br>
